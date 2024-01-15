@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.8.4" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+	<channel id="HBO.br"><display-name>HBO 4K</display-name><url>https://mi.tv</url></channel>
+	<channel id="HBO2.br"><display-name>HBO 2 FHD</display-name><url>https://mi.tv</url></channel>
+	<channel id="HBOFamily.br"><display-name>HBO FAMILY FHD</display-name><url>https://mi.tv</url></channel>
+	<channel id="HBOMundi.br"><display-name>HBO MUNDI FHD</display-name><url>https://mi.tv</url></channel>
+	<channel id="HBOPlus.br"><display-name>HBO PLUS FHD</display-name><url>https://mi.tv</url></channel>
+	<channel id="HBOPop.br"><display-name>HBO POP FHD</display-name><url>https://mi.tv</url></channel>
+	<channel id="HBOSignature.br"><display-name>HBO SIGNATURE FHD</display-name><url>https://mi.tv</url></channel>
+	
+	<channel update="i" site="https://mi.tv" site_id="HBO.br" xml_id="HBO (H265)">HBO (H265)</channel>
+	<channel update="i" site="https://mi.tv" site_id="HBO2.br" xml_id="HBO 2 SD">HBO 2 SD</channel>
+	<channel update="i" site="https://mi.tv" site_id="HBOFamily.br" xml_id="HBO FAMILY SD">HBO FAMILY SD</channel>
+	<channel update="i" site="https://mi.tv" site_id="HBOMundi.br" xml_id="HBO MUNDI SD">HBO MUNDI SD</channel>
+	<channel update="i" site="https://mi.tv" site_id="HBOPlus.br" xml_id="HBO PLUS SD">HBO PLUS SD</channel>
+	<channel update="i" site="https://mi.tv" site_id="HBOPop.br" xml_id="HBO POP SD">HBO POP SD</channel>
+	<channel update="i" site="https://mi.tv" site_id="HBOSignature.br" xml_id="HBO SIGNATURE SD">HBO SIGNATURE SD</channel>
+	 
+	<channel update="i" site="meuguia.tv" site_id="HBO" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="HB2" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="HFA" xmltv_id="HBO FAMILY HD">HBO FAMILY HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="HPL" xmltv_id="HBO PLUS HD">HBO PLUS HD</channel>
+    <channel update="i" site="meuguia.tv" site_id="HFE" xmltv_id="HBO SIGNATURE HD">HBO SIGNATURE HD</channel>
+	
+	
+    <channel update="i" site="guiadatv.com" site_id="hbo-family" xmltv_id="HBO Familly (H265)">HBO Familly (H265)</channel>
+    <channel update="i" site="guiadatv.com" site_id="hbo-mundi" xmltv_id="HBO MUNDI (H265)">HBO MUNDI (H265)</channel>
+    <channel update="i" site="guiadatv.com" site_id="hbo-plus" xmltv_id="HBO PLUS (H265)">HBO PLUS (H265)</channel>
+    <channel update="i" site="guiadatv.com" site_id="hbo-pop" xmltv_id="HBO POP (H265)">HBO POP (H265)</channel>
+    <channel update="i" site="guiadatv.com" site_id="hbo-signature" xmltv_id="HBO Signature (H265)">HBO Signature (H265)</channel>
+    <channel update="i" site="guiadatv.com" site_id="hbo-xtreme" xmltv_id="HBO XTREME (H265)">HBO XTREME (H265)</channel>
+</tv>
