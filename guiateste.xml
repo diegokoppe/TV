@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>0</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+			or https://github.com/SilentButeo2/webgrabplus-siteinipack/tree/master/siteini.pack
+  -->
+  
+	<channel update="i" site="sky.com.br" site_id="120" xmltv_id="HBO (H265)">HBO (H265)</channel>
+    <channel update="i" site="sky.com.br" site_id="121" xmltv_id="HBO 2 FHD">HBO 2 FHD</channel>
+    <channel update="i" site="sky.com.br" site_id="122" xmltv_id="HBO PLUS FHD">HBO PLUS FHD</channel>
+    <channel update="i" site="sky.com.br" site_id="124" xmltv_id="HBO FAMILY FHD">HBO FAMILY FHD</channel>
+    <channel update="i" site="sky.com.br" site_id="125" xmltv_id="HBO SIGNATURE FHD">HBO SIGNATURE FHD</channel>
+    <channel update="i" site="sky.com.br" site_id="126" xmltv_id="HBO MUNDI FHD">HBO MUNDI FHD</channel>
+    <channel update="i" site="sky.com.br" site_id="127" xmltv_id="HBO POP FHD">HBO POP FHD</channel>
+    <channel update="i" site="sky.com.br" site_id="128" xmltv_id="HBO Xtreme FHD">HBO Xtreme FHD</channel>
+	<channel update="i" site="sky.com.br" site_id="110" xmltv_id="SPACE HD">SPACE HD</channel>
+	<channel update="i" site="sky.com.br" site_id="108" xmltv_id="TNT SD">TNT SD</channel>
+ 
+</settings>
