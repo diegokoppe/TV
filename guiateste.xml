@@ -9,25 +9,23 @@
   <retry time-out="5">4</retry>
   <timespan>0</timespan>
   <update>f</update>
- 
-  <!--
-            Replace the next dummy channel entry with the channels you want.
-			You can look into the installed siteini.pack folder on your computer
-  
-            For the latest version,
-            see http://webgrabplus.com/epg-channels for the available sites/channels
-			or https://github.com/SilentButeo2/webgrabplus-siteinipack/tree/master/siteini.pack
-  -->
-  
-	<channel update="i" site="sky.com.br" site_id="120" xmltv_id="HBO (H265)">HBO (H265)</channel>
-    <channel update="i" site="sky.com.br" site_id="121" xmltv_id="HBO 2 FHD">HBO 2 FHD</channel>
-    <channel update="i" site="sky.com.br" site_id="122" xmltv_id="HBO PLUS FHD">HBO PLUS FHD</channel>
-    <channel update="i" site="sky.com.br" site_id="124" xmltv_id="HBO FAMILY FHD">HBO FAMILY FHD</channel>
-    <channel update="i" site="sky.com.br" site_id="125" xmltv_id="HBO SIGNATURE FHD">HBO SIGNATURE FHD</channel>
-    <channel update="i" site="sky.com.br" site_id="126" xmltv_id="HBO MUNDI FHD">HBO MUNDI FHD</channel>
-    <channel update="i" site="sky.com.br" site_id="127" xmltv_id="HBO POP FHD">HBO POP FHD</channel>
-    <channel update="i" site="sky.com.br" site_id="128" xmltv_id="HBO Xtreme FHD">HBO Xtreme FHD</channel>
+	<channel update="i" site="sky.com.br" site_id="120" xmltv_id="HBO">HBO</channel>
+    	<channel update="i" site="sky.com.br" site_id="121" xmltv_id="HBO 2">HBO 2</channel>
+    	<channel update="i" site="sky.com.br" site_id="122" xmltv_id="HBO Plus">HBO Plus</channel>
+    	<channel update="i" site="sky.com.br" site_id="124" xmltv_id="HBO Family">HBO Family</channel>
+    	<channel update="i" site="sky.com.br" site_id="125" xmltv_id="HBO SIGNATURE FHD">HBO SIGNATURE FHD</channel>
+    	<channel update="i" site="sky.com.br" site_id="126" xmltv_id="HBO MUNDI FHD">HBO MUNDI FHD</channel>
+    	<channel update="i" site="sky.com.br" site_id="127" xmltv_id="HBO POP">HBO POP</channel>
+    	<channel update="i" site="sky.com.br" site_id="128" xmltv_id="HBO Xtreme">HBO Xtreme</channel>
 	<channel update="i" site="sky.com.br" site_id="110" xmltv_id="SPACE HD">SPACE HD</channel>
-	<channel update="i" site="sky.com.br" site_id="108" xmltv_id="TNT SD">TNT SD</channel>
+	<channel update="i" site="sky.com.br" site_id="108" xmltv_id="TNT HD">TNT HD</channel>
+	<channel update="i" site="lineup.net.br" site_id="579063" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    	<channel update="i" site="lineup.net.br" site_id="797977" xmltv_id="Discovery Civilization">Discovery Civilization</channel>
+    	<channel update="i" site="lineup.net.br" site_id="403129" xmltv_id="Discovery h&h HD">Discovery h&h HD</channel>
+    	<channel update="i" site="lineup.net.br" site_id="140971" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    	<channel update="i" site="lineup.net.br" site_id="467961" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    	<channel update="i" site="lineup.net.br" site_id="505519" xmltv_id="Discovery Theater">Discovery Theater</channel>
+    	<channel update="i" site="lineup.net.br" site_id="830058" xmltv_id="Discovery Turbo HD">Discovery Turbo HD</channel>
+    	<channel update="i" site="lineup.net.br" site_id="733482" xmltv_id="Discovery World">Discovery World</channel>
  
 </settings>
